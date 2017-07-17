@@ -47,7 +47,7 @@ pip install requirements.txt
 python app.py
 ```
 
-![Demo](Demo.png?raw=true "Demo")
+![Demo](demo.png?raw=true "Demo")
 
 
 ## Acknowledgements
