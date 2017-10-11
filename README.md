@@ -1,4 +1,11 @@
 # SUBWAY CHATBOT
+When it comes to implementing a chatbot that will be used in real life, developers usually construct a work flow of which questions the chatbot has to ask the user to acquire adequate information that can lead to a decision or action.
+
+However, taking the advantage of **variants parameter** - a feature of [Grammatical Framework](http://www.grammaticalframework.org/), we can instruct the chatbot to construct its work flow without explicit step-by-step declaration.
+
+This repo is to demonstrate that feature with a web-based chatbot for customers to order Subway.
+
+_Disclaimer: this work has nothing to do with Subway at all, except the fact that I ate their sandwiches a lot during my MSc 1st year._
 
 ## Installation
 ### Prerequisites
